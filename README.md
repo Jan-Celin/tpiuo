@@ -1,2 +1,4 @@
 # tpiuo
-Repozitorij korišten kao prostor za predaju rješenja laboratorijskih vježbi u sklopu FER-ove vještine Tehnologije podatkovnog inženjerstva u oblaku.
+- Ime: Jan
+- Prezime: Celin
+- Email: jan.celin@fer.hr
